@@ -362,26 +362,11 @@ DUTY CYCLE = TON /(TON+TOFF)
            = 50 %
 ```
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
-
 FOR PULSE AT 700
-
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
-
 
 FOR PULSE AT 900
 ![384704887-156fa83b-452e-45d2-a821-07b9d7010f38](https://github.com/user-attachments/assets/3c9d25ee-72c8-4b2d-baf0-62e61ce7c1ff)
 
-TON = 
-TOFF=
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
 ```
 TON = 4 x 10 x 10^-6
     = 0.00004
